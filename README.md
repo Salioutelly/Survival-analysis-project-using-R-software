@@ -1,7 +1,7 @@
 # Survival-analysis-project-using-R-software
 # 🩺 Survival Analysis on Healthcare Dataset
 
-> A statistical project using survival analysis techniques to evaluate the influence of variables such as age, gender, and medical condition on patient survival times.
+A statistical project using survival analysis techniques to evaluate the influence of variables such as age, gender, and medical condition on patient survival times.
 
 ## 📌 Project Overview
 
